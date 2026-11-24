@@ -1,0 +1,4 @@
+101|AC|Available|2500
+102|Non-AC|Available|1500
+103|AC|Available|3000
+104|Non-AC|Available|1800
