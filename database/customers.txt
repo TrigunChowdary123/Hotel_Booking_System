@@ -1,2 +1,3 @@
-C001|Rahul|9876543210|rahul@gmail.com
-C002|Ananya|9876543211|ananya@gmail.com
+C002|Ananya Rao|9876543211|ananya@gmail.com
+
+C003|Rahul|9490464512|rahul@gmail.com
